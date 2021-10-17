@@ -5,7 +5,10 @@
 It is possible to learn classical control theories that directly use MATLAB/Simulink simulation.<br>
 
 ## Contents
-- [Introduction](https://tituschoi.tistory.com/27)
+- [Overview of Control System](https://tituschoi.tistory.com/27)
+- Transfer Function
+    - [Transfer Function(1)](https://tituschoi.tistory.com/29)
+    - [Transfer Function(2)](https://tituschoi.tistory.com/30)
 
 ## Reference
 [Nise, N. S. (2015). Control systems engineering.](https://wp.kntu.ac.ir/dfard/ebook/lc/Norman%20S.%20Nise-Control%20Systems%20Engineering-Wiley%20(2015)_abstract.pdf)<br>
