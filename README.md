@@ -7,9 +7,12 @@ It is possible to learn classical control theories that directly use MATLAB/Simu
 ## Contents
 - [Overview of Control System](https://tituschoi.tistory.com/27)
 - Transfer Function
-    - [Transfer Function(1)](https://tituschoi.tistory.com/29)
-    - [Transfer Function(2)](https://tituschoi.tistory.com/30)
+    - [Transfer Function_1](https://tituschoi.tistory.com/29)
+    - [Transfer Function_2](https://tituschoi.tistory.com/30)
 - [Feedback Controller](https://tituschoi.tistory.com/31)
+- Controller Design
+    - [Transient Response(Time Response)_1](https://tituschoi.tistory.com/32)
+    - [Transient Response(Time Response)_2](https://tituschoi.tistory.com/33)
 
 ## Reference
 [Nise, N. S. (2015). Control systems engineering.](https://wp.kntu.ac.ir/dfard/ebook/lc/Norman%20S.%20Nise-Control%20Systems%20Engineering-Wiley%20(2015)_abstract.pdf)<br>
