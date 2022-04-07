@@ -11,8 +11,8 @@ It is possible to learn classical control theories that directly use MATLAB/Simu
     - [Transfer Function_2](https://tituschoi.tistory.com/30)
 - [Feedback Controller](https://tituschoi.tistory.com/31)
 - Controller Design
-    - [Transient Response(Time Response)_1](https://tituschoi.tistory.com/32)
-    - [Transient Response(Time Response)_2](https://tituschoi.tistory.com/33)
+    - [Time Response(Transient Response)_1](https://tituschoi.tistory.com/32)
+    - [Time Response(Transient Response)_2](https://tituschoi.tistory.com/33)
     - [Steady-State Error(Steady-State Response)](https://tituschoi.tistory.com/36)
     - [Stability](https://tituschoi.tistory.com/37)
 
