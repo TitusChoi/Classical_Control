@@ -16,6 +16,7 @@ It is possible to learn classical control theories that directly use MATLAB/Simu
     - [Steady-State Error(Steady-State Response)](https://tituschoi.tistory.com/36)
     - [Stability](https://tituschoi.tistory.com/37)
     - [Frequency Response](https://tituschoi.tistory.com/38)
+    - [Robustness and Sensitivity](https://tituschoi.tistory.com/39)
 
 ## Reference
 [Nise, N. S. (2015). Control systems engineering.](https://wp.kntu.ac.ir/dfard/ebook/lc/Norman%20S.%20Nise-Control%20Systems%20Engineering-Wiley%20(2015)_abstract.pdf)<br>
